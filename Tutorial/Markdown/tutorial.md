@@ -36,11 +36,11 @@ print("Hello world!")
 
 ```markdown
 # 'title name'一级标题
-## 'title name'一级标题
-### 'title name'一级标题
-#### 'title name'一级标题
-##### 'title name'一级标题
-###### 'title name'一级标题
+## 'title name'二级标题
+### 'title name'三级标题
+#### 'title name'四级标题
+##### 'title name'五级标题
+###### 'title name'六级标题
 ```
 
 在typora中按<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>1</kbd>打开大纲视角
