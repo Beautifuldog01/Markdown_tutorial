@@ -11,7 +11,7 @@
 在编写的文字后加入两个空格(<kbd>space</kbd>+<kbd>space</kbd>)表示开启下一段落（具体视觉效果为空出一行）
 等效于直接空出一行  
 这里给出菜鸟教程[^RUNOOB.COM]上的截图演示:  
-![段落格式](https://github.com/Beautifuldog01/Markdown_tutorial/blob/main/Tutorial/Markdown/Pics/typora.PNG)
+![段落格式](https://github.com/Beautifuldog01/Markdown_tutorial/blob/main/Tutorial/Markdown/Pics/%E6%AE%B5%E8%90%BD%E6%A0%BC%E5%BC%8F.PNG)
 
 ## 代码块的插入  
 
